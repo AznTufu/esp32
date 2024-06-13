@@ -4,6 +4,6 @@ You should install the arduino IDE it will be easier to use with the esp32 cam. 
 
 project video : https://youtu.be/YrGM9ZB4wE0
 
-## Fonctionnality
+## Functionality
 
 We use the ESP32 CAM to get a camera feedback; we apply a black and white filter with the possibility of pixelating the image. In the long run, when clicking on the toggle pixelation, the image will have a fixed filter.
